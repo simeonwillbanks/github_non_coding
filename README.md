@@ -31,6 +31,8 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
 * Stuyvesant HS / Mike Zamansky
     * https://github.com/stuycs-softdev
     * https://github.com/stuycs-apcs-z
+* RIT Computer Science House's Constitution
+    * https://github.com/ComputerScienceHouse/Constitution
 
 ## Culture
 
